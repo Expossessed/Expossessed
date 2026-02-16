@@ -2,7 +2,7 @@
 
 
 <div>
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Disargee18&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Expossessed&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 <!--
