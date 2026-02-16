@@ -3,6 +3,10 @@
 <!--
 **Expossessed/Expossessed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div>
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Disargee18&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
